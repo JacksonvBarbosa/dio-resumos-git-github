@@ -18,7 +18,7 @@ Meu intuito com esse curso é fortalecer meus conhecimentos em versionamento com
 
 |------|------|
 
-| Her  | House |
+| Her  | Home sweet Home |
 
 
 
