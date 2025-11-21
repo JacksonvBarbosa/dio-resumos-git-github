@@ -4,6 +4,8 @@
 
 Meu intuito com esse curso é fortalecer meus conhecimentos em versionamento com Git e GitHub e criar um design com o docs git.
 
+Isso é muito importante para área de tecnologia.
+
 \[Docs Gits](https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
 
